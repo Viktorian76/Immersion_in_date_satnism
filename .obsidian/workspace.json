@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/testo.md",
+                "file": "Notes/Прямое распространение.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/testo.md",
+                "file": "Notes/Прямое распространение.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/testo.md",
+                "file": "Notes/Прямое распространение.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/testo.md"
+                "file": "Notes/Прямое распространение.md"
               }
             }
           }
@@ -141,6 +141,7 @@
   },
   "active": "9bd104acd16a0568",
   "lastOpenFiles": [
+    "Notes/testo.md",
     "templates/0 main_temp.md"
   ]
 }
