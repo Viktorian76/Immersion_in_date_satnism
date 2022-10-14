@@ -1,0 +1,12 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notes",
+  "attachmentFolderPath": "resource",
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "ru"
+  ]
+}
