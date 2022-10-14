@@ -1,0 +1,5 @@
+# only to exclude workspace cache
+.obsidian/workspace/*
+
+# Byaka
+.obsidian\plugins\obsidian-git\data.json
