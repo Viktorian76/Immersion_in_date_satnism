@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/0 main_temp.md",
+                "file": "Notes/testo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/0 main_temp.md",
+                "file": "Notes/testo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/0 main_temp.md",
+                "file": "Notes/testo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/0 main_temp.md"
+                "file": "Notes/testo.md"
               }
             }
           }
@@ -140,5 +140,7 @@
     "mostRecentAction": ""
   },
   "active": "9bd104acd16a0568",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "templates/0 main_temp.md"
+  ]
 }
